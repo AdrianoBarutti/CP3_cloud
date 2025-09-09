@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Minha API Oracle
 
 Descrição:
@@ -43,3 +44,6 @@ cd MinhaApiOracle
 dotnet restore
 dotnet run
 // Acessar a porta que liberar e adicionar um "/Swagger" // provavelmente será http://localhost:8080/swagger/index.html
+=======
+# CP3_cloud
+>>>>>>> 8103f7ada10cf541e441d2aaec45e31d42702698

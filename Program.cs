@@ -23,7 +23,7 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Minha API V1");
 });
 
-app.UseAuthorization();
+app.UseAuthorization(); 
 
 app.MapControllers();
 
